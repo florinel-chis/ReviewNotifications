@@ -1,0 +1,3 @@
+app/code/community/Openstream/ReviewNotifications                                       app/code/community/Openstream/ReviewNotifications
+app/etc/modules/Openstream_ReviewNotifications.xml                                      app/etc/modules/Openstream_ReviewNotifications.xml
+app/locale/en_US/template/email/reviewnotifications_admin_notification_template.html    app/locale/en_US/template/email/reviewnotifications_admin_notification_template.html
